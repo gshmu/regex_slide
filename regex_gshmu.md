@@ -3,7 +3,7 @@ layout: true
 class: center, middle, inverse
 ---
 # Regular Expression - regex
-author: [gshmu](https://gshmu.github.io)
+author: [gshmu](http://gshmu.tk)
 
 star: [github](https://github.com/gshmu/regex_slide)
 .footnote[Welcome to the world of regex!]
