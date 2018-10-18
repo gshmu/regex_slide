@@ -74,9 +74,8 @@ template: inverse
 
 注：这个是正则字符串中的优先级，`\.`被优先解析为`.`本身，和是否优先匹配毫无关系。
 ]
+---
 .left-column[
-  ## 　 
-  ## 　 
   ## 量词
 ]
 .right-column[
